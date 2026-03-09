@@ -16,14 +16,6 @@
       ],
       "subCategories": [
         {
-          "id": "428d0ba1-78f8-48d6-83db-f837f3830e1f",
-          "title": "多媒体",
-          "icon": "BookOpen",
-          "description": "",
-          "enabled": true,
-          "items": []
-        },
-        {
           "id": "cbb3e33d-408b-41ba-9e9a-e0444303e3fd",
           "title": "AI助手",
           "icon": "Book",
