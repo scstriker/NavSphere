@@ -7,9 +7,9 @@
       "items": [
         {
           "id": "site_1772708515720_rlnxu7cm5",
-          "title": "ITEIDraw",
+          "title": "ITEI Draw",
           "href": "https://draw.sensor-cloud.org/",
-          "description": "图片生成",
+          "description": "Generate 4K scientific diagrams and schematics\n",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=draw.sensor-cloud.org",
           "enabled": true
         },
