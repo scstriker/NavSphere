@@ -20,6 +20,14 @@
           "description": "Create diagrams, flowcharts, and technical diagrams using AI",
           "icon": "https://chart.sensor-cloud.org/favicon.ico?favicon.55de4431.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1774505495238_1lcqc2r8x",
+          "title": "ITEI Whisper ",
+          "href": "https://whisper.sensor-cloud.org/",
+          "description": "录音转会议纪要",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=whisper.sensor-cloud.org",
+          "enabled": true
         }
       ],
       "subCategories": [
