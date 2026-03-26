@@ -12,6 +12,14 @@
           "description": "图片生成",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=draw.sensor-cloud.org",
           "enabled": true
+        },
+        {
+          "id": "site_1774505409639_iyw8jfq2u",
+          "title": "ITEI Chart",
+          "href": "https://chart.sensor-cloud.org/",
+          "description": "Create diagrams, flowcharts, and technical diagrams using AI",
+          "icon": "https://chart.sensor-cloud.org/favicon.ico?favicon.55de4431.ico",
+          "enabled": true
         }
       ],
       "subCategories": [
