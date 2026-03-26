@@ -25,7 +25,7 @@
           "id": "site_1774505495238_1lcqc2r8x",
           "title": "ITEI Whisper ",
           "href": "https://whisper.sensor-cloud.org/",
-          "description": "录音转会议纪要",
+          "description": "Audio to Formatted Speech",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=whisper.sensor-cloud.org",
           "enabled": true
         }
