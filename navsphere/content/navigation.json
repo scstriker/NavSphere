@@ -6,7 +6,16 @@
       "icon": "Folder",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1776766062881_to33siwen",
+          "title": "ITEIDraw",
+          "href": "https://draw.sensor-cloud.org/",
+          "description": "访问 draw.sensor-cloud.org",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=draw.sensor-cloud.org",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
